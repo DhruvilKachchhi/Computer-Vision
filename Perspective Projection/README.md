@@ -34,9 +34,9 @@ scale_factor = reference_length_mm / reference_pixel_length
 
 ### Camera Parameters (Samsung M34)
 
-- **Focal Length**: 26mm equivalent
+- **Focal Length**: 27mm equivalent
 - **Sensor Size**: 1/2.76" (approx. 6.3mm × 4.7mm)
-- **Default Resolution**: 4000 × 3000 pixels
+- **Default Resolution**: 4080 × 3060 pixels
 - **EXIF Support**: Automatically extracts camera parameters from image metadata
 
 ## Installation
@@ -351,4 +351,5 @@ For questions, issues, or feature requests:
 - [OpenCV Documentation](https://docs.opencv.org/)
 - [Perspective Projection](https://en.wikipedia.org/wiki/Perspective_(graphical))
 - [Homography Transformations](https://en.wikipedia.org/wiki/Homography)
+
 - [Camera Calibration](https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html)
