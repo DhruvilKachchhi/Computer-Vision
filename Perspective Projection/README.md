@@ -116,7 +116,7 @@ self.reference_length_mm = 102  # References: 102mm/ 215.9mm
 
 ### **Camera Parameters**
 The tool automatically extracts camera parameters from EXIF data, or uses these defaults:
-- **Focal Length**: 26mm equivalent
+- **Focal Length**: 27mm equivalent
 - **Sensor Size**: 1/2.76" (approx. 6.3mm × 4.7mm)
 - **Default Resolution**: 4080 × 3060 pixels
 
@@ -257,5 +257,6 @@ For questions, issues, or feature requests:
 - [Camera Calibration](https://docs.opencv.org/master/dc/dbb/tutorial_py_calibration.html)
 
 ---
+
 
 **Note**: This tool provides accurate measurements when used correctly. Always verify critical measurements with physical tools when precision is essential.
