@@ -131,5 +131,3 @@ This sustained reduction contributes to **Computer Vision Syndrome** (dry eyes, 
 
 ---
 
-## License
-MIT — free for personal and educational use.
