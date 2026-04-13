@@ -141,10 +141,6 @@ pip install opencv-python numpy matplotlib plotly
 - `requirements.txt` - Python dependencies
 - `README.md` - Project documentation
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Support
 
 For questions or issues, please check:
