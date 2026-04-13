@@ -1,0 +1,87 @@
+Camera Calibration Extrinsic Parameters Information
+==================================================
+
+Number of calibration images: 20
+Chessboard size: 9x6 corners
+Square size: 0.025 meters (2.5 cm)
+
+Image 1:
+  Translation vector: [-0.09465077 -0.06695706  0.32426173]
+  Distance from camera: 0.3444 meters
+
+Image 2:
+  Translation vector: [-0.09753721 -0.07341311  0.30586442]
+  Distance from camera: 0.3293 meters
+
+Image 3:
+  Translation vector: [-0.11064123 -0.07404607  0.31234535]
+  Distance from camera: 0.3395 meters
+
+Image 4:
+  Translation vector: [-0.07447151 -0.0736709   0.378649  ]
+  Distance from camera: 0.3929 meters
+
+Image 5:
+  Translation vector: [-0.09087815 -0.08144473  0.33480247]
+  Distance from camera: 0.3563 meters
+
+Image 6:
+  Translation vector: [-0.09169536 -0.0678681   0.32833517]
+  Distance from camera: 0.3476 meters
+
+Image 7:
+  Translation vector: [-0.16483269 -0.04767305  0.42417029]
+  Distance from camera: 0.4576 meters
+
+Image 8:
+  Translation vector: [-0.054575   -0.10793454  0.36167096]
+  Distance from camera: 0.3814 meters
+
+Image 9:
+  Translation vector: [-0.10901946 -0.02635912  0.30031411]
+  Distance from camera: 0.3206 meters
+
+Image 10:
+  Translation vector: [-0.0444662  -0.08925736  0.30802628]
+  Distance from camera: 0.3238 meters
+
+Image 11:
+  Translation vector: [-0.09074175 -0.02782701  0.31109189]
+  Distance from camera: 0.3252 meters
+
+Image 12:
+  Translation vector: [-0.07416436 -0.02927681  0.45005185]
+  Distance from camera: 0.4571 meters
+
+Image 13:
+  Translation vector: [-0.09071495 -0.04835954  0.31502463]
+  Distance from camera: 0.3314 meters
+
+Image 14:
+  Translation vector: [-0.09447857 -0.0712363   0.32741465]
+  Distance from camera: 0.3481 meters
+
+Image 15:
+  Translation vector: [-0.07657384 -0.06499034  0.35809088]
+  Distance from camera: 0.3719 meters
+
+Image 16:
+  Translation vector: [-0.10019178 -0.06987356  0.42327303]
+  Distance from camera: 0.4405 meters
+
+Image 17:
+  Translation vector: [-0.10985893 -0.05787537  0.33591236]
+  Distance from camera: 0.3581 meters
+
+Image 18:
+  Translation vector: [-0.08798803 -0.05708358  0.31592813]
+  Distance from camera: 0.3329 meters
+
+Image 19:
+  Translation vector: [-0.10361719 -0.05330314  0.31186902]
+  Distance from camera: 0.3329 meters
+
+Image 20:
+  Translation vector: [-0.09697567 -0.05297506  0.41668089]
+  Distance from camera: 0.4311 meters
+
