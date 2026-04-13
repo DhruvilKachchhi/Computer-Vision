@@ -209,15 +209,3 @@ This project demonstrates several important concepts:
 2. **Fourier Analysis**: Frequency domain representation of signals
 3. **Image Processing**: Practical application of mathematical concepts
 4. **Numerical Methods**: Handling floating-point precision and numerical stability
-
-## License
-
-This project is provided as an educational demonstration. Feel free to use, modify, and distribute for educational purposes.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or report issues.
-
-## Contact
-
-For questions or feedback about this project, please open an issue or contact the maintainer.
