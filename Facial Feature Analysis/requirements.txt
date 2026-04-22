@@ -1,0 +1,25 @@
+# ============================================================
+#  Facial Analysis Pipeline — Python Dependencies
+#  Python 3.9+ required (tested on 3.11.9)
+# ============================================================
+
+# Core computer vision
+opencv-python>=4.8.0         # Video I/O, frame processing, colour conversion
+mediapipe>=0.10.0            # 468-point Face Mesh landmark detection
+
+# Numerical & scientific
+numpy>=1.24.0                # Array operations, pixel coordinate arithmetic
+scipy>=1.10.0                # Euclidean distance (scipy.spatial.distance)
+pandas>=2.0.0                # Pixel-to-mm conversion (convert_to_mm.py)
+
+# Progress display
+tqdm>=4.65.0                 # Per-video progress bar in the terminal
+
+# ── Notes ────────────────────────────────────────────────────
+# mediapipe automatically pulls in:
+#   opencv-contrib-python, absl-py, flatbuffers, matplotlib, sounddevice
+#
+# If you encounter DLL issues on Windows with mediapipe, install the
+# Microsoft Visual C++ Redistributable (x64) from:
+#   https://aka.ms/vs/17/release/vc_redist.x64.exe
+# ─────────────────────────────────────────────────────────────
