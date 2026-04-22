@@ -232,4 +232,3 @@ face_width_cm = face_width_px × scale_factor
 
 ---
 
-_Facial Analysis Pipeline — built with OpenCV + MediaPipe Face Mesh_
